@@ -4,7 +4,7 @@ This project aims to help a family check whether a proposed babysitting schedule
 
 
 ## About the Developer
-Hello! I’m Emre Akoda, a student at Middle East Technical University currently pursuing a degree in Computer Engineering. This project is part of my CENG 111 course, where we explored scheduling algorithms by checking the feasibility of a babysitting schedule.
+Hello! I’m Emre Akoda, a student at Middle East Technical University currently pursuing a degree in Computer Engineering.
 
 I have a keen interest in programming and enjoy tackling challenges related to memory management, data structures, and system design. This project not only allowed me to apply my theoretical knowledge but also provided practical experience with scheduling algorithms and Python programming.
 
