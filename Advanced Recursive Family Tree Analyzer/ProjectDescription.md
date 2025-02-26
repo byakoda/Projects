@@ -4,8 +4,7 @@ This project is developed to analyze and extract kinship relationships from a gi
 
 ## About the Developer
 
-Hello! I’m Emre Akoda, a student at Middle East Technical University currently pursuing a degree in Computer Engineering. This project is part of my coursework for CENG 111, where we explore data structures and algorithms by analyzing family tree structures.
-
+Hello! I’m Emre Akoda, a student at Middle East Technical University currently pursuing a degree in Computer Engineering.
 I have a keen interest in programming and enjoy tackling challenges related to memory management, data structures, and system design. This project allowed me to apply theoretical knowledge and gain practical experience in Python programming and recursive algorithms.
 
 Feel free to reach out if you have any questions or feedback regarding this project!
